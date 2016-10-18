@@ -1,14 +1,10 @@
-/* Modifications TODO:
-For the equals case (0.25), downsize
-First remove the element, then check if it needs to be downsized
-
 
 */
 #ifndef LINEAR_HASH_TABLE_H
 #define LINEAR_HASH_TABLE_H
 
 /*****************************************
- * UW User ID:  uwuserid
+ * UW User ID:  h397wang
  * Submitted for ECE 250
  * Semester of Submission:  (Winter|Spring|Fall) 20NN
  *
